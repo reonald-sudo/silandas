@@ -1,0 +1,917 @@
+id_obat,nama_obat,stok
+6703406,Abacavir,64
+6509352,Acarbose,31
+2373510,ACE Inhibitor,56
+2513650,Acebutolol,81
+5463538,Acetazolamide,28
+5111123,Acetylcysteine,2
+3315225,Acitretin,72
+4285142,Aclidinium,53
+1365209,Actemra,45
+9144376,Actifed,12
+9926707,Acyclovir Tablet,62
+8992050,Acyclovir Topikal,95
+4877729,Adalimumab,26
+2143944,Adapalene,3
+1988368,Adefovir,23
+897942,Adem Sari,57
+2402611,Adenosine,72
+5932565,Agonis Beta,84
+5635328,Albendazole,63
+3695654,Albumin,40
+2028044,Alendronate,45
+3234949,Alfentanil,54
+2073831,Alfuzosin,15
+1736126,Aliskiren,9
+8172607,Alitretinoin,45
+8267050,Allopurinol,6
+5067686,Allylestrenol,4
+5623207,Alpha-Lipoic Acid,76
+8170980,Alprazolam,14
+5730083,Alteplase,73
+5772929,Aluminium Hidroksida,56
+5137971,Ambroxol,83
+3982727,Ambroxol Indofarma,14
+5627799,Amfetamin,72
+7754886,Amikacin,54
+4707262,Amil Nitrit,57
+1019519,Amiloride,78
+539545,Aminofilin,5
+5771218,Aminoglikosida,77
+9170672,Aminolevulinic Acid,41
+349552,Amiodarone,66
+4420580,Amitriptyline,31
+1184909,Amlodipine,100
+4718473,Amlodipine Hexpharm,97
+2280396,Amobarbital,40
+8936073,Amonium Klorida,9
+3941668,Amoxicillin,67
+8592027,Amoxicillin Indofarma/Kimia Farma,62
+2301880,Amoxillin,88
+1625924,Amphotericin B,22
+2825917,Ampicillin,57
+6242598,Amylmetacresol,13
+4850234,Anagrelide,31
+4865900,Anakinra,42
+4187200,Analgetik-Antipiretik,2
+6778261,Anastrozole,65
+2521101,Anidulafungin,50
+8209425,Antagonis H2,93
+2806474,Antagonis Kalsium,82
+8861945,Antalgin,48
+2284880,Antangin,90
+1803608,Antasida,91
+6305100,Antiansietas,45
+7822882,Antiaritmia,58
+7591061,Antibiotik,96
+6674060,Antibiotik Polipeptida,91
+7329683,Antidepresan,92
+9745539,Antidepresan Trisiklik,52
+5189882,Antihistamin,33
+519616,Antijamur,81
+8340625,Antikoagulan,77
+3535960,Antikolinergik,49
+5028153,Antikonvulsan,1
+2542860,Antimania,32
+4252230,Antiplatelet,6
+1586371,Antipsikotik,46
+1949492,Antitetanus,14
+5105092,Apixaban,20
+1804560,ARB,91
+166118,Arginine,30
+3586348,Aripiprazole,51
+2364368,Asam Alginat,63
+4173368,Asam Azaleat,87
+9178185,Asam Borat Tetes Telinga,1
+3232306,Asam fusidat,36
+6805422,Asam Glikolat,75
+7407310,Asam Mefenamat,30
+3348867,Asam Pipemidat,32
+1450429,Asam Salisilat,82
+7253979,Asam Traneksamat,86
+2085994,Asam Ursodeoksikolat,46
+5826940,Asam Valproat,56
+877742,Asenapine,26
+8245237,Asetilkolin,10
+3492529,Aspirin,29
+7874614,Astaxanthin,52
+9401334,Astemizole,28
+1579391,Atenolol,65
+113574,Atorvastatin,91
+8776165,Atropin,65
+7216278,Attapulgite,68
+9686013,Avifavir,76
+2949597,Avigan,75
+3444579,Azathioprine,100
+5194758,Azilsartan Medoxomil,22
+7512296,Azithromycin,84
+9400861,Baby&Me Organic,50
+9920543,Bacitracin,17
+3510838,Baclofen,53
+8579528,Baloxavir Marboxil,13
+606887,Barbiturat,29
+9060246,Baricitinib,13
+1247072,Basiliximab,8
+1986923,Batugin,31
+1927287,Bebelac Gold Soya,46
+4911786,Benazepril,23
+5949663,Benzalkonium Chloride,27
+3234106,Benzodiazepine,12
+631729,Benzolac,85
+6791202,Benzoyl Peroxide,42
+7856051,Betadine,41
+1675624,Betahistine,2
+2458929,Betametason,32
+559280,Betametason Topikal,49
+7392547,Betaxolol,48
+5753776,Bethanechol,28
+3837115,Bexarotene,93
+809301,Biapenem,7
+471325,Bilberry,43
+5871750,Bile Acid Sequestrant,28
+9677390,Biotin,80
+8623672,Bisacodyl,81
+9114603,Bisfosfonat,67
+2104841,Bismuth Subsalicylate,47
+5097220,Bisolvon,1
+4259583,Bisoprolol,31
+9802452,Bleomycin,83
+4457859,Bodrex,79
+6049985,Boron,3
+3264089,Bortezomib,41
+8532183,Botox,31
+30881,Brodalumab,6
+6333755,Bromelain,71
+3346071,Bromhexine,77
+9372550,Bromocriptine,25
+7982197,Brompheniramine,8
+427718,Bronkodilator,1
+9615477,Budesonide,72
+4596401,Bupivacaine,99
+6061331,Buprenorphine,88
+3579755,Bupropion,40
+5095509,Busulfan,42
+5599851,Butabarbital,65
+1139939,Butalbital,95
+6252632,Butorphanol,91
+7674238,Caladine Lotion,85
+1265871,Calcitriol,6
+9307946,Calcium D Redoxon (CDR),77
+9072976,Callusol,50
+473969,Canakinumab,23
+5762578,Candesartan,22
+3047225,Canesten,54
+6777586,Capecitabine,22
+9111353,Captopril,49
+6114066,Carbamazepine,63
+2182524,Carbapenem,21
+3324060,Carbidopa,69
+7393283,Carbimazole,12
+6486168,Carboplatin,4
+1286621,Carvedilol,20
+6612752,Cataflam,38
+9483897,Cefaclor,61
+6909012,Cefadroxil,69
+516938,Cefazolin,45
+384156,Cefdinir,26
+825948,Cefditoren,67
+1858350,Cefepime,54
+3833608,Cefixime,7
+9335385,Cefoperazone,67
+5349806,Cefoperazone-Sulbactam,90
+6835631,Cefotaxim,93
+3632911,Cefpirome,44
+2383780,Cefpodoxime,62
+2650112,Cefprozil,78
+2609668,Ceftaroline Fosamil,66
+8952481,Ceftazidime,85
+1781787,Ceftizoxime,38
+9108903,Ceftriaxone,97
+8780623,Cefuroxime,88
+1255639,Celecoxib,63
+5259548,Cephalexin,73
+7446356,Cerebrovit,91
+7922286,Certolizumab,18
+4615674,Cetirizine,8
+2163520,Chlorambucil,20
+1026023,Chloramphenicol,66
+5790653,Chlordiazepoxide-Clidinium,84
+52955,Chlorhexidine,35
+7949254,Chlorpheniramine,77
+8381855,Chlorpromazine,61
+7871957,Chlorzoxazone,3
+3918271,Cholestyramine,58
+6903797,Ciclopirox,53
+4174753,Ciclosporin,70
+5296002,Cilostazol,87
+2874802,Cimetidine,93
+5334672,Ciprofloxacin,66
+4043543,Cisapride,98
+4948499,Cisplatin,37
+2045630,Citicolin,73
+4978684,Clarithromycin,51
+6753526,Clebopride,22
+3162313,Clenbuterol,27
+1708098,Clindamycin,21
+4242877,Clobazam,5
+8452134,Clobetasol,40
+2672203,Clocortolone,24
+6945264,Clodronate,16
+3617945,Clomifene,97
+5774783,Clomipramine,77
+7544670,Clonazepam,94
+9494748,Clonidine,64
+9207705,Clopidogrel,81
+5493783,Clotrimazole,30
+9792031,Clozapine,56
+667789,Codeine,79
+1520944,Codipront,16
+4542850,Coenzyme Q10,28
+417468,Colchicine,100
+2573715,Colesevelam,11
+3934151,Colestipol,22
+6154312,Colistin,20
+4863941,Combantrin,17
+470115,Combivent,71
+9256163,Cortisone,21
+5904301,Counterpain,26
+4195695,COX-2 Inhibitor,99
+3411442,Cyclophosphamide,83
+5325335,Cyproheptadine,50
+6193761,Dabigatran,9
+9180004,Daclatasvir,23
+2495567,Daktarin,70
+9882855,Danazol,19
+8513808,Dapagliflozin,85
+1995970,Dapsone,66
+8162501,Darifenacin,48
+6000139,Darunavir,46
+2997655,Daun Ungu,22
+7396588,Decitabine,79
+5284175,Decolgen,89
+8583056,Deferasirox,58
+5425410,Deferiprone,46
+8749647,Degirol,65
+6461022,Dekongestan,88
+3527373,Demeclocycline,69
+3332402,Dermatix,93
+6240649,Desloratadine,46
+9647799,Desoximetasone,77
+6161584,Dexamethasone,82
+5032684,Dexamethasone Harsen/Holi,30
+4717196,Dexanta,75
+6389794,Dexketoprofen,92
+9129792,Dexlansoprazole,14
+5029780,Dexteem Plus,34
+4069030,Dextromethorphan,41
+9019220,Dextrose,42
+5131204,Diapet,58
+9404442,Diazepam,68
+6490296,Diclofenac,91
+2959480,Diethylcarbamazine,15
+9224654,Digoxin,44
+4079277,Diltiazem,12
+5991482,Dimenhydrinate,33
+8170455,Dimethicone,55
+2065077,Dimethindene Maleate,55
+9259683,Diphencyprone (DPCP),96
+3963979,Diphenhydramine,59
+9435503,Dipyridamole,98
+86807,Disulfiram,21
+2493018,Diuretik,76
+2014019,Diuretik Hemat Kalium,2
+8764605,Dobutamin,53
+1915582,Docetaxel,22
+8201160,Docosahexaenoic Acid (DHA),53
+32266,Docusate,73
+2811913,Dofetilide,34
+2017424,Domperidone,72
+9885104,Donepezil,41
+8579425,Dopamin,7
+6896140,Doripenem,87
+2153581,Doxazosin,90
+6121514,Doxepine,19
+4311786,Doxorubicin,64
+6811139,Doxycycline,8
+5305328,Dulcolax,39
+8017042,Duloxetine,99
+7616590,Dumolid,30
+2361268,Dydrogesterone,85
+7966989,Ekspektoran,35
+3215201,EM Kapsul,92
+6121446,Emtricitabine-Tenofovir,43
+7531404,Enalapril,51
+3399988,Enervon C,2
+4047977,Enoxaparin,61
+4302759,Entacapone,9
+9445934,Entecavir,2
+4161723,Entrostop,74
+5719888,Enzalutamide,39
+353498,Eperisone,31
+1340572,Ephedrine Tetes Hidung,78
+150854,Epinephrine,74
+109240,Epirubicin,99
+3956295,Eplerenone,19
+4794524,Epoetin Alfa,99
+2322587,Epoetin Beta,53
+6165337,Eprosartan,68
+5521316,Eptifibatide,92
+2033586,Erdosteine,86
+9176511,Ergotamine,4
+1769348,Ertapenem,25
+4601115,Erythromycin,81
+7271656,Escitalopram,21
+3425179,Esmolol,55
+4705175,Esomeprazole,13
+3109289,Estazolam,76
+5638302,Estradiol,17
+4583441,Estriol,1
+2086600,Estrogen,85
+2497384,Etanercept,3
+2047996,Ethambutol,54
+6932966,Etodolac,38
+9199250,Etoposide,86
+4837213,Etoricoxib,52
+8694637,Etravirine,95
+3162982,Everolimus,45
+902845,Exemestane,69
+5411998,Famciclovir,67
+1921986,Famotidine,30
+7870734,Favipiravir,23
+7004142,Felodipine,50
+600777,Feminax,43
+5318839,Fenilbutazon,16
+7674073,Fenofibrate,96
+8452496,Fentanyl,38
+7043030,Fexofenadine,16
+4142366,FG Troches,99
+8386484,Fibrinogen,78
+3604389,Filgrastim,93
+8386564,Finasteride,78
+1338027,Fingolimod,75
+6021781,Flavoxate,71
+9323476,Fluconazole,24
+3211128,Flunarizin,59
+9900641,Fluocinolone,16
+3472641,Fluoxetine,35
+3637804,Fluphenazine,53
+130587,Fluticasone,28
+1174489,Fluvoxamine,76
+1468989,Folavit,89
+9468761,Fondaparinux,6
+5065060,Formalin,25
+5246069,Formoterol,74
+927781,Fosinopril,1
+5855696,Fucoidan,46
+5361382,Fungiderm,28
+4038735,Furosemide,82
+1905438,Gabapentin,53
+9574444,Galantamine,95
+5444152,Gallium Nitrate,73
+2404510,Ganciclovir,17
+2069389,Gatifloxacin Tetes Mata,69
+4937386,Gefitinib,22
+8869960,Gemcitabine,38
+3307201,Gemfibrozil,61
+858534,Gentamicin,35
+6531408,Ginkgo Biloba,41
+6142056,Glibenclamide,76
+7766828,Gliclazide,29
+8172413,Glimepiride,38
+3135932,Gliquidone,87
+6416100,Gliserol,87
+4618178,Gliserol Topikal,92
+1539114,Glukagon,55
+2452049,Glycopyrronium,72
+9591683,Golimumab,51
+1151814,Goserelin,86
+1899541,Granisetron,85
+5937171,Griseofulvin,34
+8997555,Guaifenesin,42
+6948925,H-Booster,6
+9062444,Haloperidol,78
+3114230,Halothane,34
+8591751,Heparin,20
+8389123,Heptaminol,75
+6497792,Holisticare Ester C,36
+6523634,Hufagripp,27
+3829590,Hufavicee,57
+9211129,Human Chorionic Gonadotropin (HCG),29
+2633671,Hydrochlorothiazide,51
+716454,Hydrocodone,34
+9842588,Hydrocortisone,14
+180016,Hydromorphone,7
+4820562,Hydroquinone,30
+7928534,Hydrotalcite,50
+1844044,Hydroxychloroquine,5
+2785445,Hydroxyzine,26
+3454584,Hyoscine Butylbromide,76
+6914794,Hyoscine Hydrobromide,36
+6072350,Ibandronate,54
+323185,Ibuprofen,2
+2096457,Ifosfamide,76
+4271202,Iliadin,67
+1055718,Imatinib,26
+2348179,Imboost,48
+1593871,Imipenem-Cilastatin,53
+4638981,Imipramine,7
+1165371,Incidal-OD,51
+3769611,Indacaterol,94
+7541675,Indapamide,56
+3280393,Indinavir,56
+5867314,Indomethacin,62
+9423181,Indoramin,21
+6931286,Infliximab,94
+4517640,Insto,65
+3828932,Insulin Suntik,38
+2960817,Interferon,4
+4049308,Interferon Alfa-2a,24
+4874582,Interferon Alfa-2b,86
+8502031,Interferon alfa-n3,70
+915280,Interferon Beta-1a,55
+6238004,Interferon Beta-1b,1
+7267151,Interferon Gamma-1b,71
+9966892,Ipratropium,99
+2494703,Irbesartan,81
+9907926,Irinotecan,88
+3921577,Isocarboxazid,45
+9085676,Isoniazid,56
+8398832,Isosorbid Mononitrat,82
+6448866,Isosorbide Dinitrate,65
+231356,Isotretinoin,20
+9620005,Isoxsuprine,5
+5359719,Isradipine,2
+222241,Itraconazole,42
+3234309,Ivabradine,93
+2300692,Ivermectin,2
+4135559,IVIG,27
+9907123,Kafein,88
+5796552,Kalium,29
+4707446,Kalpanax,91
+775278,Kalsium,50
+7992058,Kalsium Asetat,65
+980556,Kalsium Glukonat,50
+2214204,Kalsium Karbonat,19
+2106251,Kanamycin,48
+9386858,Karbon Aktif,77
+8471055,Kejibeling,47
+9814062,Ketamine,79
+8624524,Ketoconazole,14
+4154778,Ketoprofen,31
+1678326,Ketorolac,81
+7229871,Ketotifen,35
+6721433,Kina,62
+2855524,Kiranti,11
+4086768,Klorokuin,36
+3799189,Komix,48
+9278768,Kortikosteroid,52
+6285120,Kotrimoksazol,36
+1937136,L-Alanyl-L-Glutamine,69
+6553670,Labetalol,59
+2703609,Lacto-B,69
+8173894,Lactobacillus Acidophilus,89
+170645,Laktulosa,78
+6897940,Lamivudine,8
+2880232,Lamotrigine,48
+1667604,Lancid,18
+3903501,Lanolin,7
+7389899,Lansoprazole,73
+2701793,Lapatinib,34
+242615,Latanoprost,8
+1568060,Leflunomide,52
+1733871,Lenalidomide,68
+9442455,Letrozole,69
+3428160,Leucovorin,59
+7863958,Levetiracetam,6
+6335430,Levocetirizine,11
+6100060,Levodopa,17
+812111,Levofloxacin,22
+8487630,Levonorgestrel Kontrasepsi Darurat,84
+7485290,Levothyroxine,43
+1122322,Lidocaine,57
+8211712,Linagliptin,71
+9186824,Lincomycin,61
+1184341,Linezolid,89
+3764486,Liothyronine,96
+427137,Lisinopril,62
+2324810,Lithium,51
+3172489,Loperamide,9
+7654441,Lopinavir Ritonavir,76
+7228869,Loratadine,50
+2829043,Lorazepam,76
+6037463,Losartan,53
+2684533,Lovastatin,4
+9474462,Lutein,81
+2943202,Lynestrenol,10
+8227204,Lysine dan Asam Amino Esensial Oral,34
+7427440,Macrogol,37
+4273796,Magnesium Hidroksida,20
+2678730,Magnesium Sitrat,80
+7842420,Magnesium Sulfat (MgSO4),57
+9725762,Makrolid,40
+6008459,Manitol,54
+2530117,MAOI,19
+4362838,Maprotiline,69
+1741322,Mebendazole,69
+3563507,Mebhydrolin,48
+2848321,Medi-Klin,28
+2263827,Melanox,38
+418913,Meloxicam,15
+3003074,Memantine,5
+6838618,Meniran Hijau,81
+3888038,Meropenem,27
+2077118,Mesterolone,62
+9317138,Metamfetamin,68
+2673344,Metamizole,31
+3676987,Metformin,3
+4309277,Methadone,68
+8728691,Methimazole,77
+8742777,Methisoprinol,96
+8563433,Methotrexate,85
+670664,Methylcellulose,75
+3543924,Methylcobalamin,76
+4979658,Methylergometrine,8
+9063896,Methylphenidate,99
+8583672,Methylprednisolone,25
+2283587,Metil Salisilat,12
+3751156,Metildopa,59
+6363674,Metoclopramide,83
+2727991,Metoprolol,87
+6058202,Metronidazole,56
+7096514,Micafungin,28
+9455304,Miconazole,67
+5298541,Microgynon,76
+2508663,Microlax,53
+7658677,Midazolam,91
+204159,Migran Konimex,94
+3621198,Minocycline,17
+9503948,Minoxidil,77
+4570952,Mirtazapine,29
+8021095,Misoprostol,45
+9630840,Mivacurium,68
+1078580,Mixagrip,8
+6192680,Mixalgin,46
+9429307,Modafinil,95
+1272211,Moexipril,25
+9228195,Mometasone Furoate,77
+6620272,Morfin,7
+8590555,Moxifloxacin,21
+8081817,Mupirocin,21
+7376162,Muscle Relaxant,17
+2941073,Mycophenolate Mofetil,36
+6593761,Mycophenolate Sodium,99
+1560253,Mylanta,93
+2874834,Nabumetone,29
+8909098,Nadolol,17
+4283311,Nadroparin,89
+9522505,Naftifine,48
+8750643,Nalbuphine,4
+1169526,Nalgestan,36
+841600,Naproxen,65
+1283875,Natrium Bikarbonat,46
+946546,Natrium Picosulfat,18
+2589978,Natur-E,98
+9116417,Nebivolol,94
+1567775,Neo Rheumacyl,47
+7947959,Neocate Junior,23
+8188477,Neomycin,84
+4238355,Neostigmine,5
+2264329,Neurobion,68
+7760147,Nevirapine,52
+9783373,New Diatabs,55
+7298550,Nicardipine,51
+3298124,Nicotinamide,23
+2984104,Nifedipine,73
+1369174,Nifuroxazide,23
+1236176,Nilotinib,92
+2024093,Nimodipine,49
+7125707,Nitisinone,6
+3453046,Nitrat,89
+1025889,Nitrofurantoin,98
+9428121,Nitrogen Oksida,34
+9527981,Nitrogliserin,16
+6980409,Nizatidine,52
+9735554,Nonsteroidal Anti-inflammatory Drugs (NSAID),77
+4755828,Norepinephrine,99
+2371824,Norethisterone,49
+53422,Norfloxacin,24
+6675660,Norit,65
+9350827,Noscapine,33
+1785656,Nusinersen,23
+3386945,Nutribaby Royal 1,58
+5486305,Nutribaby Royal 2,33
+3517884,Nutrilon Royal Prosyneo,42
+9280667,NUVO Hand Sanitizer dan Hand Soap,73
+6502842,Nystatin,76
+2165517,Obat Antihipertensi,9
+8187985,Obat Antivirus,48
+9348724,Obat Digestan,15
+9689686,Obat Golongan Tetracycline,47
+3284993,Obat Imunosupresan,35
+8901609,Obat Pencahar,6
+9926401,Octreotide,93
+275333,Ofloxacin,94
+1544618,Oksitosin,58
+4665275,Olanzapine,82
+8436008,Olmesartan,43
+6970545,Olodaterol,94
+4399690,Omalizumab,1
+9397146,Omeprazole,30
+1197572,Ondansetron,36
+5418765,Oralit,73
+5670226,Orlistat,21
+9342924,Oseltamivir,46
+2437302,Oskadon,34
+7726940,Oxacillin,75
+1207454,Oxcarbazepine,25
+1057192,Oxomemazine,13
+9219231,OXY,18
+7160843,Oxycodone,26
+8672003,Oxymetazoline,99
+1394058,Oxytetracycline,88
+7424033,Paclitaxel,53
+1088506,Paliperidone,56
+1983582,Panadol,36
+4821495,Pancuronium,30
+8286350,Pantoprazole,81
+4657777,Papaverine,88
+7452844,Paracetamol (Acetaminophen),71
+7360050,Paraldehyde,42
+4453951,Paramex,88
+6916068,Parasol,5
+5768554,Paricalcitol,97
+1781110,Parnaparin,72
+615678,Paromomycin,17
+137870,Pegfilgrastim,62
+1122187,Peginterferon alfa-2a,40
+5689903,Peginterferon Alfa-2b,36
+7250801,Pektin,67
+2506074,Penciclovir,75
+2341517,Penghambat Adrenergik,41
+4346378,Penghambat Alfa,70
+6188990,Penghambat Beta,50
+2081822,Penghambat Pompa Proton,6
+9171946,Penghambat Protein Kinase,15
+9120158,Penicillin G Procaine,21
+2627958,Penicillin VK,4
+3880357,Penisilin,43
+4009587,Pentobarbital,49
+261836,Perindopril,37
+8254383,Permethrin,20
+558892,Perphenazine,12
+7156681,Petrolatum,85
+3920625,Phenazopyridine,92
+5588880,Phenelzine,31
+222016,Phenobarbital,81
+2106616,Phenothiazine,61
+2713154,Phenylephrine,10
+6345210,Phenylpropanolamine,99
+880751,Phenytoin,23
+5072315,Pil KB,73
+5977240,Pilocarpine,12
+2988134,Pimozide,77
+1431902,Pioglitazone,55
+6427637,Piracetam,58
+598319,Pirocam,28
+4081342,Piroxicam,10
+2671770,Policresulen,5
+2351962,Polycarbophil,71
+7475613,Polymyxin B,66
+4918718,Polysilane,22
+5193477,Pomalidomide,77
+3678937,Ponstan,53
+5908139,Povidone Iodine,42
+8675941,Prasugrel,66
+800822,Praziquantel,58
+1558550,Prazosin,61
+774806,Prednisolone,5
+7921505,Prednison,88
+276750,Pregabalin,71
+8413645,Prilocaine,33
+8174620,Primaquine,31
+9802618,Primidone,80
+2416410,Probenecid,55
+7506987,Probiotik,23
+3348917,Procainamide,42
+2103349,Procaterol Hcl,47
+4737196,Prochlorperazine,8
+2337931,Progesteron,99
+1617007,Promag,3
+8585401,Promethazine,41
+6581079,Propafenone,85
+9133077,Propofol,32
+760342,Propranolol,13
+6509640,Propylthiouracil,25
+7838864,Pseudoephedrine,34
+1362727,Psyllium,39
+6377360,PUREGROW Organic,29
+8594883,Pyrazinamide,12
+3392166,Pyridoxine,58
+5100961,Pyrimethamine,2
+2046933,Quetiapine,94
+8698753,Quinapril,90
+8006636,Quinidine,94
+6565646,Quinolone,47
+3822103,Rabeprazole,98
+3903527,Radium,79
+6486744,Raloxifen,16
+7814370,Ramipril,93
+1013185,Ranitidin,56
+4096263,Redoxon,62
+3956208,Remdesivir,96
+7488663,Remifentanil,45
+9022365,Repaglinide,32
+3100776,Reserpine,93
+8063060,Retinoid,92
+4188475,Rhinos SR,79
+6437942,Rho,13
+9000681,Ribavirin,97
+6875977,Riboflavin,4
+1990909,Rifampicin,2
+3143693,Rilpivirine,13
+6094601,Riluzole,10
+5446206,Risedronate,60
+5562017,Risperidone,71
+2390908,Rituximab,64
+6276524,Rivaroxaban,63
+4213895,Rivastigmine,62
+7308298,Rohto Eye Care,76
+4449062,Ropinirole,51
+3953800,Rosuvastatin,36
+6417424,Saccharomyces,13
+9772362,Sakatonik Liver,59
+596909,Salbutamol,13
+9784990,Salmeterol,87
+6740878,Salonpas,27
+2774911,Sangobion,23
+4376548,Sangobion Femine,82
+5556520,Sanmol,1
+2964077,Scopolamine,67
+9257568,Scott’s Emulsion,77
+125177,Secobarbital,75
+3955047,Sefalosporin,60
+2299227,Selective Serotonin Reuptake Inhibitors (SSRIs),85
+9733218,Selegiline,92
+6647306,Senna,50
+5097926,Sertraline,3
+1117707,Sevelamer,70
+9384964,SGM Eksplor Soya Pro-gress Maxx dengan Iron C,8
+9817859,Sildenafil,18
+159729,Simeprevir,62
+1171248,Simethicone,84
+7389033,Simvastatin,11
+2700530,Sirolimus,11
+6800007,Sodium Biphosphate (Sodium Phosphate),84
+28665,Sodium Divalproex,7
+7667105,Sofosbuvir,96
+7050829,Sorafenib,14
+7980282,Sotalol,21
+6856353,Sparfloxacin,90
+9362261,Spiramycin,37
+9199399,Spironolactone,9
+5883451,Squalene,48
+9405513,Stavudine,32
+6070672,Stimuno Anak,79
+6572767,Strepsils,21
+8168219,Streptokinase,99
+39613,Streptomycin,7
+183640,Strontium,73
+896310,Sufentanil,5
+7527669,Sukralfat,29
+641652,Sulfadiazine,47
+7153365,Sulfamethoxazole,62
+7446123,Sulfanilamide,93
+9641660,Sulfasalazine,26
+2891649,Sulfonamida,3
+6693830,Sulfonilurea,69
+2600268,Sulpiride,26
+903873,Sumagesic,28
+9119236,Sumatriptan,80
+5240862,Sunitinib,66
+7691363,Super Tetra,39
+5859804,Suxamethonium,17
+6105917,Tacrine,99
+4317602,Tacrolimus,28
+2789343,Tadalafil,42
+931888,Tamoxifen,65
+8632923,Tamsulosin,58
+9556849,Tapentadol,35
+1365280,Telbivudine,8
+1412473,Telmisartan,60
+4588743,Telon Lang,15
+7212763,Temazepam,27
+9214522,Tembaga,39
+7123872,Tempra,33
+306854,Teofilin,6
+377081,Terapi Penggantian Hormon,70
+1711366,Terazosin,5
+4279016,Terbinafine,45
+599766,Terbutaline,62
+3847387,Terfenadine,46
+8205896,Terramycin,15
+8069881,Testosterone,15
+935184,Tetracycline Hcl,87
+1499812,Thalidomide,27
+6164650,Thiamphenicol,59
+2327905,Thioguanine,94
+9506623,Thiopental,5
+8321855,Thrombophob,91
+880331,Tiabendazole,23
+3821372,Ticagrelor,93
+8372707,Ticlopidine,4
+3600916,Tigecycline,61
+4762977,Timolol,53
+1575304,Tioconazole,22
+2055914,Tiotropium,56
+30585,Tirofiban,86
+1170221,Tizanidine,86
+1851503,Tobramycin,55
+5818871,Tocilizumab,64
+486583,Tolak Angin,48
+9933212,Tolnaftate,80
+1002079,Tolterodine,50
+641962,Tonikum Bayer,81
+7920172,Topiramate,26
+2970992,Torasemide,33
+8314624,Tramadol,85
+2045653,Trandolapril,22
+719706,Tranylcypromine,1
+8956664,Tretinoin Oral,83
+2009921,Tretinoin Topikal,91
+8798545,Triamcinolone,23
+7436633,Triamcinolone Semprot Hidung,47
+2825523,Triclabendazole,71
+4585589,Triclosan,52
+2787015,Trifluoperazine,45
+691051,Triflusal,60
+3931965,Trihexyphenidyl,9
+9093508,Trimetazidine,79
+3159640,Trimethoprim,31
+8192143,Triprolidine,50
+8669051,Tripsin,35
+9467253,Ulipristal,49
+6425813,Vaksin AstraZeneca,90
+4473267,Vaksin BCG,84
+7087981,Vaksin Campak,11
+6129157,Vaksin Cansino,48
+6581530,Vaksin DPT,79
+1485453,Vaksin Hepatitis B,50
+3318498,Vaksin HPV,18
+9259262,Vaksin Influenza,58
+4807973,Vaksin Johnson & Johnson,25
+6985589,Vaksin Moderna,27
+1422497,Vaksin MR,13
+6493553,Vaksin Novavax,47
+3319395,Vaksin Pfizer,66
+9704494,Vaksin Polio,15
+7865944,Vaksin Rotavirus,89
+2644031,Vaksin Sinopharm,60
+5418648,Vaksin Sinovac,73
+2057034,Vaksin Sputnik,75
+4175856,Vaksin Tifus,46
+1357541,Valacyclovir,41
+2046167,Valganciclovir,86
+8903652,Valsartan,98
+7989065,Vancomycin,83
+5223126,Vardenafil,19
+9224168,Varian Produk SGM Eksplor Pro-gress Maxx dengan IronC,80
+7704872,Vasodilator,59
+9225816,Vasopressin,66
+5535898,Vecuronium,41
+3975378,Vegeta Herbal,90
+8038777,Velpatasvir-Sofosbuvir,18
+386985,Venlafaxine,9
+9028302,Verapamil,5
+5771628,Verile,84
+6248770,Viagra,64
+4750647,Vidoran Xmart,66
+2788600,Vinblastin,56
+7846169,Vincristine,24
+2494736,Vinorelbine,53
+4378165,Vitacimin,40
+6097704,Vitamin A,74
+3399497,Vitamin B1,8
+5428504,Vitamin B12,100
+2897196,Vitamin B2,88
+3866250,Vitamin B3 (Niacin),36
+1639236,Vitamin B5,90
+2742015,Vitamin B6,15
+6038020,Vitamin B9 (Asam Folat),16
+9288524,Vitamin C,97
+3815637,Vitamin D,68
+8537543,Vitamin D3,56
+9406120,Vitamin E,67
+3967852,Vitamin K,92
+4919442,Voltadex,49
+257905,Voltaren,34
+6456807,Voriconazole,68
+252408,Warfarin,23
+6991096,Wheat Dextrin,19
+3283119,Xanax,50
+388542,Zanamivir,34
+3037506,Zat Besi,8
+3810941,Zidovudine,21
+1267677,Zinc Sulphate,63
+8051596,Zoledronic Acid,78
+8997381,Zolpidem,25
+,,52

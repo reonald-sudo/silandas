@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "dev-php8-support",
+        "phpoffice/phpspreadsheet": "^1.19"
+    }
+}

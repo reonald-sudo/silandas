@@ -1,0 +1,230 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.kotak {
+  width: auto;
+  height: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: lightgreen;
+  border: 2px solid whitesmoke;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 50px;
+  margin: 10px;
+  float: left;
+  transition: 1s;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.kotak:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.transisi {
+  transition: 1s;
+}
+
+.transisi:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.noUnderline {
+  text-decoration: none;
+}
+
+a {
+  color: black;
+}
+
+.tengah {
+  position: fixed; /* or absolute */
+  top: 50%;
+  left: 40%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+
+.clear {
+  clear: both;
+}
+
+.gambar {
+  width: 35px;
+  height: 35px;
+}
+
+.div-menu {
+  display: inline;
+  width: 50px;
+  height: 100px;
+}
+
+.iconTable {
+  margin-bottom: 4px;
+  width: 15px;
+  height: 15px;
+}
+
+.iconTable2 {
+  margin-bottom: 4px;
+  width: 10px;
+  height: 12px;
+}
+
+.uploadGambarStunting {
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  width: 350px;
+  max-width: 100%;
+  height: 313px;
+}
+
+.uploadGambarHamil {
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  width: 550px;
+  max-width: 100%;
+  height: 157px;
+}
+
+.gambarPdf {
+  width: 50px;
+  height: 50px;
+}
+
+.loading {
+  display: none;
+}
+
+.logoSupported {
+  width: auto;
+  height: 90px;
+}
+
+.imgFooter {
+  width: 50px;
+  height: 50px;
+}
+
+.nav-link:hover {
+  background-color: #536162;
+  transition: 0.5s;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1.1);
+}
+
+.card-body-icon {
+  position: absolute;
+  z-index: 0;
+  right: 3px;
+  top: 45px;
+}
+
+.nav-item {
+  margin-bottom: 22px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.card-body {
+  font-family: "Roboto", sans-serif;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+}
+
+.footer {
+  clear: both;
+  position: relative;
+  height: 200px;
+  margin-top: 270px;
+}
+
+.navbar-brand {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
+}
+
+.shadow-Tambah-User {
+  box-shadow: 1px 1px 3px 1px #a7bbc7;
+  width: 1090px;
+  border-radius: 4px;
+  height: fit-content;
+  background-color: white;
+}
+
+.shadow-Tambah-Petugas {
+  box-shadow: 1px 1px 3px 1px #a7bbc7;
+  width: 1090px;
+  border-radius: 4px;
+  height: fit-content;
+  background-color: white;
+}
+
+.font-Form-Input {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+}
+
+.font-Form {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 700;
+}
+
+.heading-Page {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 600;
+}
+
+.border-Table {
+  border-radius: 5px;
+}
+
+.wordWrap {
+  word-wrap: break-word;
+}
+
+.footer-New {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}
+
+.carousel .item {
+  height: 300px;
+}
+
+.item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+
+.carousel-item {
+  height: 370px;
+} 
+
+.carousel-item img {
+  margin-top: -180px;
+}
+
+.bg {
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  margin-top: -270px;
+}
